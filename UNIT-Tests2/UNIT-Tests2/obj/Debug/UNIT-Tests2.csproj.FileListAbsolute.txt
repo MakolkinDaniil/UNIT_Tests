@@ -1,0 +1,6 @@
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\bin\Debug\UNIT-Tests2.dll
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\bin\Debug\UNIT-Tests2.pdb
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\obj\Debug\UNIT-Tests2.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\obj\Debug\UNIT-Tests2.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\obj\Debug\UNIT-Tests2.dll
+C:\Users\Daniil\source\repos\UNIT-Tests2\UNIT-Tests2\obj\Debug\UNIT-Tests2.pdb
